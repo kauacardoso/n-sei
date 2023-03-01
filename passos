@@ -1,0 +1,28 @@
+passo a passo GitHub
+1-entrar no github com email
+2-entrar no vscode
+3-fechar pasta (se aestiver aberta) -file-->close folder
+4-ir no botao source-control
+5-botao clone-repository
+6-copiar url do repositorio no github e colar no vscode e teclar "enter"
+7-clonar o diretorio em c:/xampp/htdocs e clicar em open
+8-tela azul se confia em author clicar em sim
+---------------fim da clonagem----------------
+
+-------------configurar terminal-------
+1-ir no menu terminal-->new terminal
+2-digitar os comandos:
+git config --global user.email "email-do github"
+git config --global user.name "nome-usuario-github"
+3-fechar terminal
+----------------------------------------------------------------
+-------enviando mudanças para github--------------------------------
+1-salvar as mudanças "ctrl+s"
+2- ir no source-control
+3- em changes clicar +
+4-colocar mensagem no commit
+5- clicar na setinha do botao commit(*azul)
+6- clicar em commit & push
+7-na primeira vez dar as autorizacoes - na sengunda nao sera mais necessario
+8-ver no github se foi atualizado 
+--------------fim------------------
